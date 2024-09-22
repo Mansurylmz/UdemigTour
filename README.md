@@ -3,7 +3,9 @@ Bu proje, HTML ve CSS ile oluşturulmuş bir tur sitesidir.
 
 # Özellikler
 -HTML ve CSS ile sıfırdan oluşturulmuş bileşenler.
+
 -Tamamen responsive tasarım.
+
 -Ekran boyutlarına duyarlı yerleşim.
 
 # Ekran Kaydı
